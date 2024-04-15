@@ -3,6 +3,7 @@
 In this project :
 
 - Designing the Weather Forecast App
+- React JS
 - CSS
 - Styling
 - Adding Custom Fonts
